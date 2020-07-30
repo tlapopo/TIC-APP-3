@@ -2,18 +2,18 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.moodle.Tic-APP-1"
         versionCode = "37000"
         android-versionCode="37000"
         version   = "3.7.0">
-    <name>Moodle</name>
+    <name>Tic App 1</name>
 
     <description>
-        Moodle official app
+        Primera prueba para la app de TI
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://ti.utxicotepec.edu.mx" email="tlapopoche@gmail.com">
+        Joel Zuñiga Fernaldo
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">

@@ -1,6 +1,6 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
+    "app_id": "com.moodle.Tic-APP-1",
+    "appname": "Tic App 1",
     "desktopappname": "Moodle Desktop",
     "versioncode": 3700,
     "versionname": "3.7.0",
@@ -8,7 +8,7 @@
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
     "cache_update_frequency_rarely": 43200000,
-    "default_lang": "en",
+    "default_lang": "es-mx",
     "languages": {
         "ar": "عربي",
         "bg": "Български",
@@ -56,21 +56,9 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
-        "student": {
-            "url": "https:\/\/school.demo.moodle.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https:\/\/school.demo.moodle.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
-    "sitename": "",
+    "siteurl": "http://ti.utxicotepec.edu.mx",
+    "sitename": "Tic App 1",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
