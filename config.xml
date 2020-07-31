@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.Tic-APP-1"
+        id        = "com.moodle.TicAPP1"
         versionCode = "37000"
         android-versionCode="37000"
         version   = "3.7.0">
