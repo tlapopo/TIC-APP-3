@@ -57,7 +57,7 @@
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://ti.utxicotepec.edu.mx",
+    "siteurl": "http://ti.utxicotepec.edu.mx/course/view.php?id=1293&sesskey=vD2AcMRZrK",
     "sitename": "Tic App 1",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
