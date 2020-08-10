@@ -1,6 +1,6 @@
 {
     "app_id": "com.moodle.TicAPP1",
-    "appname": "Tic App 1",
+    "appname": "Tic",
     "desktopappname": "Moodle Desktop",
     "versioncode": 3700,
     "versionname": "3.7.0",
@@ -58,7 +58,7 @@
     "wsextservice": "local_mobile",
     "customurlscheme": "moodlemobile",
     "siteurl": "http://ti.utxicotepec.edu.mx/course/view.php?id=1293&sesskey=vD2AcMRZrK",
-    "sitename": "Tic App 1",
+    "sitename": "Tic",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
